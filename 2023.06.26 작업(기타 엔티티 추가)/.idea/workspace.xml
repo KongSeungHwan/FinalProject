@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71166f19-8803-4632-91bf-7676936c3c3a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/matchgetit/.idea/modules/com.matchgetit.backend.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/config/CsrfTokenConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/config/WebClientConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/constant/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/constant/Proficiency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/controller/NaverController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/controller/PartyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/dto/MemberDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/entity/MemberEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/entity/PartyEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/loginAPI/NaverTokenResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/loginAPI/NaverUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/loginAPI/NaverUserResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/repository/MemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/repository/PartyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/request/SignUpRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/service/MemberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/service/NaverService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/service/PartyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/util/FormatDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchgetit/backend/src/main/resources/static/css/signUp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchgetit/backend/src/main/resources/static/templates/addData.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchgetit/frontend/src/user/components/LogIn/SocialLogIn/SocialLogIn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchgetit/frontend/src/user/components/Rank/RankingBoard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matchgetit/frontend/src/user/styles/RankingBoard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/.gradle/7.6.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/backend/.gradle/7.6.1/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/.gradle/7.6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/backend/.gradle/7.6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/.gradle/7.6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/backend/.gradle/7.6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/.gradle/7.6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/backend/.gradle/7.6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/.gradle/7.6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/backend/.gradle/7.6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/.gradle/7.6.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/backend/.gradle/7.6.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/backend/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/backend/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/backend/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/backend/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/build/classes/java/main/com/matchgetit/backend/config/SecurityConfig$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/backend/build/classes/java/main/com/matchgetit/backend/config/SecurityConfig$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/build/classes/java/main/com/matchgetit/backend/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/backend/build/classes/java/main/com/matchgetit/backend/config/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/build/classes/java/main/com/matchgetit/backend/constant/AccountType.class" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/backend/build/classes/java/main/com/matchgetit/backend/constant/AccountType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/build/classes/java/main/com/matchgetit/backend/controller/AdminController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/build/classes/java/main/com/matchgetit/backend/controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/build/classes/java/main/com/matchgetit/backend/controller/LogInController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/build/classes/java/main/com/matchgetit/backend/dto/AdminPageUserDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/build/classes/java/main/com/matchgetit/backend/dto/UserDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/build/classes/java/main/com/matchgetit/backend/entity/BaseEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/build/classes/java/main/com/matchgetit/backend/entity/BaseTimeEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/build/classes/java/main/com/matchgetit/backend/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/build/classes/java/main/com/matchgetit/backend/repository/UserRepository3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/build/classes/java/main/com/matchgetit/backend/request/LoginRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/backend/build/classes/java/main/com/matchgetit/backend/request/LoginRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/build/classes/java/main/com/matchgetit/backend/service/AdminPageUserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/backend/build/resources/main/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/backend/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/constant/AccountType.java" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/constant/AccountType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/controller/AdminController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/controller/LogInController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/dto/AdminPageUserDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/dto/UserDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/entity/BaseEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/entity/BaseTimeEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/entity/UserEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/repository/UserRepository3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/repository/UserRepositoryCustom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/repository/UserRepositoryCustomImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/request/LoginRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/request/LoginRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/service/AdminPageUserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/src/main/java/com/matchgetit/backend/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/backend/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/frontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/frontend/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/frontend/src/user/components/LogIn/LogIn.js" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/frontend/src/user/components/LogIn/LogIn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/frontend/src/user/components/LogIn/SignUp.js" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/frontend/src/user/components/LogIn/SignUp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/frontend/src/user/components/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/frontend/src/user/components/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/frontend/src/user/components/Match/FriedlyMatch.js" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/frontend/src/user/components/Match/FriedlyMatch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/frontend/src/user/components/MenuBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/frontend/src/user/components/MenuBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/frontend/src/user/pages/MyPage/Mypage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/frontend/src/user/pages/MyPage/Mypage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/frontend/src/user/pages/MyPage/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/frontend/src/user/pages/MyPage/Profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/frontend/src/user/styles/LogIn/logInPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/frontend/src/user/styles/LogIn/logInPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/frontend/src/user/styles/LogIn/signUp.css" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/frontend/src/user/styles/LogIn/signUp.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/frontend/src/user/styles/MatchingPage/Application/leagueMatching.css" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/frontend/src/user/styles/MatchingPage/Application/leagueMatching.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchgetit/frontend/src/user/styles/swipePage.css" beforeDir="false" afterPath="$PROJECT_DIR$/matchgetit/frontend/src/user/styles/swipePage.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/matchgetit" />
+  </component>
+  <component name="ProjectId" id="2ROv5WXPcyEtHogbg9DmqAZNBrt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Kosmo/Desktop/2023 Project/2023.06.16 작업/matchgetit",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71166f19-8803-4632-91bf-7676936c3c3a" name="Changes" comment="" />
+      <created>1687133759793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687133759793</updated>
+      <workItem from="1687133760898" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
